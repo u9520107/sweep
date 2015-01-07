@@ -1,0 +1,5 @@
+[package]
+
+name = "sweep"
+version = "0.0.1"
+authors = ["Jack Tzu-Chieh Huang <u9520107@gmail.com>"]
